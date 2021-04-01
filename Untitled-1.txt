@@ -1,0 +1,6 @@
+Nosso projeto será baseado no princípio de funcionamento de lavadoras, onde há um dispositivo (pressostato) 
+que indica à placa eletrônica, por meio de sinais de frequência, qual o nível de água há no cesto.
+Fisicamente a leitura do nível de água feita pelo pressostato é feita por meio da pressão exercida no mesmo,
+em coluna d'água.
+Sendo assim, nos entregaria um sinal analógico, 
+para que possamos converte-lo no clp/arduíno e então gerar alarmes e indicadores.
