@@ -4,3 +4,22 @@ Fisicamente a leitura do nível de água feita pelo pressostato é feita por mei
 em coluna d'água.
 Sendo assim, nos entregaria um sinal analógico, 
 para que possamos converte-lo no clp/arduíno e então gerar alarmes e indicadores.
+
+
+      <div></div><br>
+        A solução encontrada pelo grupo foi baseado no princípio de funcionamento de lavadoras, onde há um dispositivo (pressostato) 
+        que indica à placa eletrônica, por meio de sinais de frequência, qual o nível de água há no cesto.
+      </div>
+      <div><br>
+        Fisicamente a leitura do nível de água feita pelo pressostato é feita por meio da pressão exercida no mesmo,
+        em coluna d'água.
+      </div>
+      <div>
+        Sendo assim, nos entregaria um sinal analógico, 
+        para que possamos converte-lo no clp/arduíno e então gerar alarmes e indicadores.         
+      </div>
+      
+      <div><br>
+        Sendo assim será utilizado um pressostato realizando a leitura dos tanques de tinta, os dados seram enviados para um CLP,
+        posteriormente enviados para um arduino que preencherá uma interface que aparecerá para em um munitor. 
+      </div>
