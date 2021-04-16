@@ -1,12 +1,11 @@
- .body{
-    background-color: snow;
-     
-}  
+body{
+    background-color: rgb(255, 255, 255);
+}
  .Titulo{
     font-size: 1cm;
     color: rgb(255, 255, 255);
     text-align: center;
-    background-color: rgb(36, 38, 41);
+    background-color: rgb(14, 44, 90);
  }
  .nomes{
     font-size: 1em;
@@ -14,11 +13,10 @@
     text-align: center;
 }
  .introdução{
-    font-size: 2ch;
+    font-size: 18px;
     color: rgb(0, 0, 0);
     text-align:left;   
     border: 2px solid rgb(115, 81, 238);
-    background-color: snow;
 }
 .d1{
     font-size: 2ch;
@@ -27,4 +25,38 @@
     border: 2px solid rgb(115, 81, 238);
     background-color: snow;
 }
-    
+.desen{
+    font-size: 1cm;
+    color: black;
+    text-align: center;
+}
+.desenvolvimento{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align:left;   
+    border: 2px solid rgb(115, 81, 238);
+}
+.img1{
+    border: 1px black ;
+    border-radius: 4px;
+    padding: 5px;
+    width: 536px;
+    height: 195px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}    
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+.left{
+    display: block;
+    margin-left: 0%;
+    margin-right: auto;
+    width: 50%;
+
+}
