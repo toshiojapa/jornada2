@@ -1,0 +1,98 @@
+.contatos{
+    height: 0px;
+    background: #f2f2f2;
+}
+.al1{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align:left;   
+    border: 2px solid rgb(14, 44, 90);
+    float: left;
+    width: 50%;
+    padding: 0%;
+}
+.al2{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align:left;   
+    border: 2px solid rgb(14, 44, 90);
+    float: left;
+    width: 50%;
+    padding: 0%;
+}
+.al3{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align:left;   
+    border: 2px solid rgb(14, 44, 90);
+    float: left;
+    width:  50%;
+    padding: 0%;
+}
+.al4{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align:left;   
+    border: 2px solid rgb(14, 44, 90);
+    float: left;
+    width:  50%;
+    padding: 0%;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(14, 44, 90);   
+ }
+ li{
+     float: left;
+ }
+ li a{
+     display: block;
+     color: white;
+     text-align: center;
+     padding: 16px;
+     text-decoration: none;
+ }
+ li a:hover{
+     background-color: #111111;
+ }
+ .img2{
+    float: right ;
+ }
+ .desen{
+    font-size: 1cm;
+    color: black;
+    text-align: center;
+}
+.desenvolvimento{
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+    text-align:left;   
+    border: 2px solid rgb(14, 44, 90);
+}
+.img1{
+    border: 1px black ;
+    border-radius: 4px;
+    padding: 5px;
+    width: 536px;
+    height: 195px;  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}    
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+}
+.left{
+    display: block;
+    margin-left: 0%;
+    margin-right: auto;
+    width: 50%;
+
+}
