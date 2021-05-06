@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+   <meta charset="UTF-8">
+   <title>Suporte Técnico</title>
+   <link rel="stylesheet" href="style2.css">
+  </head>
+  
+<body>
+ <ul class="lista">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="resultados.html"> Resultados</a></li>
+    <li><a href="contatos.html">Contatos</a></li>
+    <li><a href="suporte.html">Suporte</a></li>
+ </ul>
+  <p class="form"> 
+    <form action="enviar.php" method="POST">
+        <label for="Nome">Qual é o seu nome completo?</label><br>
+        <input type="text" id="Nome" name="Nome" ><br>
+        <label for="Data">Data de Nascimento</label><br>
+        <input type="date" id="data" name="data" ><br>
+        <label for="Email">Informe o seu Email</label><br>
+        <input type="email" id="email" name="email sup" size="45"><br>
+        <label for="cel">Telefone para o contato</label><br>
+        <input type="text" id="cel" name="cel" ><br>
+        <label for="problam">Qual é o problema encontrado?</label><br>
+        <input type="textarea" id="text" name="problam"><br>
+        <input type="submit" value="Submit">;
+    </form>
+  </p>
+</body>
+</html>
