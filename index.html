@@ -23,15 +23,13 @@
       </ul>
       <p class="int">Introdução</p>
       <p class="introdução" >
-        A solução encontrada pelo grupo foi baseado no princípio de funcionamento de lavadoras
-        onde há um dispositivo (pressostato) que indica à placa eletrônica
-        por meio de sinais de frequência, qual o nível de água no cesto.
-        Fisicamente a leitura do nível de água feita pelo pressostato é feita 
-        por meio da pressão exercida no mesmo, em coluna d'água, nos entregaria um sinal analógico, 
-        para que possamos convertê-lo no clop/arduino e então gerar alarmes e indicadores. <br>
-        Sendo assim será utilizado um pressostato realizando a leitura dos tanques de tinta
-        os dados serão enviados para um CLP, posteriormente enviados para um arduino 
-        que preencherá uma interface que aparecerá para em um monitor. 
+        A solução encontrada pelo grupo foi utilizar um sensor ultrassônico que indicará o nível 
+        por meio de ondas de frequência assim nos entregando um sinal analógico,então 
+        para que possamos convertê-lo utilizando uma lógica binária  assim enviando os dados para um ESP 32 e então gerando o indicador de nível . <br>
+        Sendo assim será utilizado um sensor ultrassônico realizando a leitura dos tanques de tinta,
+        os dados serão enviados para um CLP, posteriormente convertidos e enviados para um ESP 32
+        que preencherá uma interface que aparecerá em um html que pode ser acessado por um ip. 
+
       </p>
   
   </body>

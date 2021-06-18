@@ -6,7 +6,7 @@
     font-size: 18px;
     color: rgb(0, 0, 0);
     text-align:left;   
-    border: 2px solid rgb(14, 44, 90);
+    border: 2px solid rgb(255, 255, 255);
     float: left;
     width: 50%;
     padding: 0%;
@@ -15,7 +15,7 @@
     font-size: 18px;
     color: rgb(0, 0, 0);
     text-align:left;   
-    border: 2px solid rgb(14, 44, 90);
+    border: 2px solid rgb(255, 255, 255);
     float: left;
     width: 50%;
     padding: 0%;
@@ -24,7 +24,7 @@
     font-size: 18px;
     color: rgb(0, 0, 0);
     text-align:left;   
-    border: 2px solid rgb(14, 44, 90);
+    border: 2px solid rgb(247, 247, 247);
     float: left;
     width:  50%;
     padding: 0%;
@@ -33,7 +33,7 @@
     font-size: 18px;
     color: rgb(0, 0, 0);
     text-align:left;   
-    border: 2px solid rgb(14, 44, 90);
+    border: 2px solid rgb(255, 255, 255);
     float: left;
     width:  50%;
     padding: 0%;
@@ -70,7 +70,7 @@ ul{
     font-size: 18px;
     color: rgb(0, 0, 0);
     text-align:left;   
-    border: 2px solid rgb(14, 44, 90);
+    border: 2px solid rgb(255, 255, 255);
 }
 .img1{
     border: 1px black ;

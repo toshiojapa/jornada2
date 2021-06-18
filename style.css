@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(255, 255, 255, 0.761);
 }
  .Titulo{
     font-size: 1cm;
@@ -9,14 +9,14 @@ body{
  }
  .nomes{
     font-size: 1em;
-    color: rgb(56, 50, 50);
+    color: rgb(0, 0, 0);
     text-align: center;
 }
  .introdução{
-    font-size: 18px;
+    font-size: 16px;
     color: rgb(0, 0, 0);
     text-align:left;   
-    border: 2px solid rgb(14, 44, 90);
+    border: 2px solid rgb(255, 255, 255)
 }
 .d1{
     font-size: 2ch;
@@ -48,6 +48,6 @@ li a:hover{
 }
 .int{
     font-size: 1cm;
-    color: black;
+    color: rgb(0, 0, 0);
     text-align: center;
 }
