@@ -1,18 +1,18 @@
 body{
     background-color: rgba(255, 255, 255, 0.761);
 }
- .Titulo{
+.Titulo{
     font-size: 1cm;
     color: rgb(255, 255, 255);
     text-align: center;
     background-color: rgb(14, 44, 90);
- }
- .nomes{
+}
+.nomes{
     font-size: 1em;
     color: rgb(0, 0, 0);
     text-align: center;
 }
- .introdução{
+.introdução{
     font-size: 16px;
     color: rgb(0, 0, 0);
     text-align:left;   
@@ -25,7 +25,6 @@ body{
     border: 2px solid rgb(14, 44, 90);
     background-color: snow;
 }
-
 ul{
    list-style-type: none;
    margin: 0;
